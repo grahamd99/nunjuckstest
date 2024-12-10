@@ -1,2 +1,4 @@
 # nunjuckstest
-Just trying out Nunjucks templating ina Node.js Express app
+Just trying out Nunjucks templating in a Node.js Express app
+
+Based on tutorial here: https://tutorial.techaltum.com/nunjucks.html
